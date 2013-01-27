@@ -1,0 +1,8 @@
+*.files
+*.includes
+*.creator
+*.user*
+*.config
+
+template/build/
+template/build/*
